@@ -1,5 +1,5 @@
-import { Avatar, Box, Stack, Text, VStack } from "@chakra-ui/react";
-import React from "react";
+import {  Box, Stack, Text, VStack } from "@chakra-ui/react";
+
 
 
 
@@ -31,7 +31,7 @@ const Footer = () => {
 
         <VStack>
          
-          <Text >Talkeen, the founder</Text>
+          <Text >Rinki, the founder</Text>
         </VStack>
       </Stack>
     </Box>
